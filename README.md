@@ -12,5 +12,5 @@ Repositorio para el curso de GIT de Los Enlaces
 * Alberto Santos
 
 # Ayuda
-https://git-scm.com/book/es/v2
-https://help.github.com/articles/connecting-to-github-with-ssh/
+* https://git-scm.com/book/es/v2
+* https://help.github.com/articles/connecting-to-github-with-ssh/
