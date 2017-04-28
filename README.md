@@ -5,3 +5,4 @@ Repositorio para el curso de GIT de Los Enlaces
 * Borja Falcon
 * Sergio Molinero
 * Javi Romo
+* Sandra Vizuete
