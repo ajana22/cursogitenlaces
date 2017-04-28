@@ -8,3 +8,4 @@ Repositorio para el curso de GIT de Los Enlaces
 * David Perez
 * Pedro Monteagudo
 * victoria Joven
+* Sandra Vizuete
