@@ -6,3 +6,4 @@ Repositorio para el curso de GIT de Los Enlaces
 * Sergio Molinero
 * Javi Romo
 * David Perez
+* Pedro Monteagudo
