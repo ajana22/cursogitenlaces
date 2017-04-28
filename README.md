@@ -9,3 +9,6 @@ Repositorio para el curso de GIT de Los Enlaces
 * Pedro Monteagudo
 * Victoria Joven
 * Sandra Vizuete
+
+# Ayuda
+https://git-scm.com/book/es/v2
