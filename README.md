@@ -7,5 +7,5 @@ Repositorio para el curso de GIT de Los Enlaces
 * Javi Romo
 * David Perez
 * Pedro Monteagudo
-* victoria Joven
+* Victoria Joven
 * Sandra Vizuete
