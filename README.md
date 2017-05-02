@@ -10,6 +10,7 @@ Repositorio para el curso de GIT de Los Enlaces
 * Victoria Joven
 * Sandra Vizuete
 * Alberto Santos
+* Guillermo Tovar
 
 # Ayuda
 * https://git-scm.com/book/es/v2
