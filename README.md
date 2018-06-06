@@ -7,7 +7,7 @@ Repositorio para el curso de GIT de Los Enlaces
 
 * Merche Sanjuan
 * Jorge Coll
-* Ana
+* Ana Muñoz
 * Guillermo Casamayor
 
 ## 2017
