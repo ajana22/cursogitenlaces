@@ -4,22 +4,16 @@ Repositorio para el curso de GIT de Los Enlaces
 # Contributors
 
 ## 2018
-<<<<<<< HEAD
+
 * Merche Sanjuan
 * Jorge Coll
 * Ana
-*Guillermo Casamayor
+* Guillermo Casamayor
 
 ## 2017
-=======
 
 * David Cordon
 * Jorge Coll
-
-## 2017
-
-
->>>>>>> b7fbe944f2a1ba1dfba3d01b8a9407772cc1c94d
 * Borja Falcon
 * Sergio Molinero
 * Javi Romo
