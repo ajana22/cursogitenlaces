@@ -1,11 +1,6 @@
 # Curso GIT enlaces
 Repositorio para el curso de GIT de Los Enlaces
 
-##2018
-*Guillermo Casamayor
-
-
-##2017
 
 # Contributors
 
