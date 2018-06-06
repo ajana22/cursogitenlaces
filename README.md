@@ -1,13 +1,11 @@
 # Curso GIT enlaces
 Repositorio para el curso de GIT de Los Enlaces
 
-
 # Contributors
-
 
 ## 2018
 
-* David Cordon
+* Merche Sanjuan
 * Jorge Coll
 * Ana Muñoz
 * Guillermo Casamayor
@@ -15,7 +13,8 @@ Repositorio para el curso de GIT de Los Enlaces
 
 ## 2017
 
-
+* David Cordon
+* Jorge Coll
 * Borja Falcon
 * Sergio Molinero
 * Javi Romo
@@ -25,6 +24,7 @@ Repositorio para el curso de GIT de Los Enlaces
 * Sandra Vizuete
 * Alberto Santos
 * Guillermo Tovar
+
 
 # Ayuda
 * https://git-scm.com/book/es/v2
