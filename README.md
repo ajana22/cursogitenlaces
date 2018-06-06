@@ -3,12 +3,11 @@ Repositorio para el curso de GIT de Los Enlaces
 
 # Contributors
 
-
 ## 2018
 * Merche Sanjuan
+* Jorge Coll
 
 ## 2017
-
 * Borja Falcon
 * Sergio Molinero
 * Javi Romo
