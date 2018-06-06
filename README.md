@@ -7,11 +7,20 @@ Repositorio para el curso de GIT de Los Enlaces
 +patricia romeo
 
 
-* David Cordon
+* Merche Sanjuan
 * Jorge Coll
+
+* Estela Reinao
+
+* Ana Muñoz
+* Guillermo Casamayor
+* Raquel Peiró
+
 
 ## 2017
 
+* David Cordon
+* Jorge Coll
 * Borja Falcon
 * Sergio Molinero
 * Javi Romo
@@ -21,6 +30,7 @@ Repositorio para el curso de GIT de Los Enlaces
 * Sandra Vizuete
 * Alberto Santos
 * Guillermo Tovar
+
 
 # Ayuda
 * https://git-scm.com/book/es/v2
