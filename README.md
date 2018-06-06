@@ -11,6 +11,7 @@ Repositorio para el curso de GIT de Los Enlaces
 
 ## 2018
 
+* David Cordon
 * Jorge Coll
 
 ## 2017
