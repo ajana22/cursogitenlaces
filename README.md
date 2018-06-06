@@ -3,10 +3,6 @@ Repositorio para el curso de GIT de Los Enlaces
 
 # Contributors
 
-##2018
-
-* Mario Perez
-
 ## 2018
 
 * Patricia Romeo
@@ -18,6 +14,7 @@ Repositorio para el curso de GIT de Los Enlaces
 * Raquel Peiró
 * Guillermo Arrese
 * David Cordon
+* Mario Perez
 
 ## 2017
 
