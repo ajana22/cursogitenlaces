@@ -2,6 +2,9 @@
 Repositorio para el curso de GIT de Los Enlaces
 
 # Contributors
+##2018
++patricia romeo
+## 2018
 * Borja Falcon
 * Sergio Molinero
 * Javi Romo
