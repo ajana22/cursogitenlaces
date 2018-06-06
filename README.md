@@ -1,14 +1,14 @@
 # Curso GIT enlaces
 Repositorio para el curso de GIT de Los Enlaces
 
+HEAD
 
 # Contributors
 ##2018
 
-*mario
+* Mario Perez
 
-
-##2017
+## 2017
 
 * Borja Falcon
 * Sergio Molinero
