@@ -12,18 +12,17 @@ HEAD
 
 ## 2018
 
+* Patricia Romeo
 * Merche Sanjuan
 * Jorge Coll
 * Estela Reinao
 * Ana Muñoz
 * Guillermo Casamayor
 * Raquel Peiró
-
+* David Cordon
 
 ## 2017
 
-* David Cordon
-* Jorge Coll
 * Borja Falcon
 * Sergio Molinero
 * Javi Romo
