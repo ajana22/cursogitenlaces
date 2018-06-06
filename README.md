@@ -9,6 +9,8 @@ Repositorio para el curso de GIT de Los Enlaces
 
 * David Cordon
 * Jorge Coll
+* Ana Muñoz
+* Guillermo Casamayor
 
 ## 2017
 
