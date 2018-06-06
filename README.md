@@ -2,6 +2,12 @@
 Repositorio para el curso de GIT de Los Enlaces
 
 # Contributors
+
+## 2018
+* David Cordon
+
+## 2017
+
 * Borja Falcon
 * Sergio Molinero
 * Javi Romo
