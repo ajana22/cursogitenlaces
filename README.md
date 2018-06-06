@@ -2,6 +2,13 @@
 Repositorio para el curso de GIT de Los Enlaces
 
 # Contributors
+
+
+## 2018
+* Merche Sanjuan
+
+## 2017
+
 * Borja Falcon
 * Sergio Molinero
 * Javi Romo
@@ -11,6 +18,7 @@ Repositorio para el curso de GIT de Los Enlaces
 * Sandra Vizuete
 * Alberto Santos
 * Guillermo Tovar
+
 
 # Ayuda
 * https://git-scm.com/book/es/v2
