@@ -8,6 +8,13 @@ Repositorio para el curso de GIT de Los Enlaces
 ##2017
 
 # Contributors
+
+## 2018
+
+* Jorge Coll
+
+## 2017
+
 * Borja Falcon
 * Sergio Molinero
 * Javi Romo
