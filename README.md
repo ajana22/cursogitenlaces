@@ -1,7 +1,19 @@
 # Curso GIT enlaces
 Repositorio para el curso de GIT de Los Enlaces
 
+##2018
+*Guillermo Casamayor
+
+
+##2017
+
 # Contributors
+
+
+##2018
+* Ana
+
+##2017
 
 ## 2018
 
@@ -10,6 +22,7 @@ Repositorio para el curso de GIT de Los Enlaces
 * Raquel Peiró
 
 ## 2017
+
 
 * Borja Falcon
 * Sergio Molinero
