@@ -12,6 +12,7 @@ Repositorio para el curso de GIT de Los Enlaces
 * Ana Muñoz
 * Guillermo Casamayor
 * Raquel Peiró
+* Guillermo Arrese
 * David Cordon
 
 ## 2017
