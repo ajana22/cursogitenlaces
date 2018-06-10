@@ -5,15 +5,19 @@ Repositorio para el curso de GIT de Los Enlaces
 
 ## 2018
 
+* Patricia Romeo
 * Merche Sanjuan
 * Jorge Coll
+* Estela Reinao
 * Ana Muñoz
 * Guillermo Casamayor
+* Raquel Peiró
+* Guillermo Arrese
+* David Cordon
+* Mario Perez
 
 ## 2017
 
-* David Cordon
-* Jorge Coll
 * Borja Falcon
 * Sergio Molinero
 * Javi Romo
